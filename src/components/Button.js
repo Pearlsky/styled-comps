@@ -11,4 +11,6 @@ const Button = () => {
   return <StyledButton> Click Me </StyledButton>;
 };
 
+// note: props passed with just their names have a value of true
+
 export default Button;
