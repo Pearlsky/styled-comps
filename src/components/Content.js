@@ -19,8 +19,8 @@ const Content = () => {
     <>
       <Section className="section">
         <Title>💅 Section</Title>
-        <Button/>
-        <Button/>
+        <Button primary text='Me first!'/>
+        <Button text='Me second'/>
       </Section>
     </>
   );
